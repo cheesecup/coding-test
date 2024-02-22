@@ -12,10 +12,4 @@ public class Average {
 
         return (double) sum / cnt;
     }
-
-    public static void main(String[] args) {
-        Average average = new Average();
-        System.out.println(average.solution(new int[]{1,2,3,4}));
-        System.out.println(average.solution(new int[]{5,5}));
-    }
 }
