@@ -1,2 +1,4 @@
-package codekata.level01;public class Main {
+package codekata.level01;
+
+public class Main {
 }
