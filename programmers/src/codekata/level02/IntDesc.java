@@ -15,9 +15,4 @@ class IntDesc {
 
         return Long.parseLong(sb.toString());
     }
-
-    public static void main(String[] args) {
-        IntDesc intDesc = new IntDesc();
-        System.out.println(intDesc.solution(118372));
-    }
 }
