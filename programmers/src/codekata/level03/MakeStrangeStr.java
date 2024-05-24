@@ -25,9 +25,4 @@ class MakeStrangeStr {
 
         return answer;
     }
-
-    public static void main(String[] args) {
-        MakeStrangeStr makeStrangeStr = new MakeStrangeStr();
-        System.out.println(makeStrangeStr.solution("try hello world"));
-    }
 }
